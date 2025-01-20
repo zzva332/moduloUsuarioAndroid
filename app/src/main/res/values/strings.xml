@@ -13,4 +13,6 @@
     <string name="fecha_creado">Fecha de registro</string>
     <string name="eliminar">Eliminar</string>
     <string name="update">Modificar</string>
+    <string name="label_password">nueva password</string>
+    <string name="label_nueva_password">confirmar nueva password</string>
 </resources>

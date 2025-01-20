@@ -45,7 +45,7 @@
         android:layout_height="48dp"
         android:layout_marginTop="10dp"
         android:ems="10"
-        android:hint="@string/placeholder_password"
+        android:hint="@string/label_password"
         android:inputType="textPassword" />
 
     <EditText
@@ -54,12 +54,13 @@
         android:layout_height="48dp"
         android:layout_marginTop="10dp"
         android:ems="10"
-        android:hint="@string/confirmPassword"
+        android:hint="@string/label_nueva_password"
         android:inputType="textPassword" />
+
     <Button
         android:id="@+id/button2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/registrarse" />
+        android:text="@string/update" />
 
 </LinearLayout>
