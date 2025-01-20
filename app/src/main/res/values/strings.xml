@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GestionUsuarios</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="placeholder_password">Password</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="Email">Email</string>
+    <string name="confirmPassword">Confirmar password</string>
+
+    <string name="estado">Estado</string>
+    <string name="fecha_creado">Fecha de registro</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="update">Modificar</string>
+</resources>
